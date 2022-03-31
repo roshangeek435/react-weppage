@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-weppage/static/css/main.2ec4c2f0.css",
+    "main.js": "/react-weppage/static/js/main.c0412e6a.js",
+    "static/media/404.svg": "/react-weppage/static/media/404.c516706fc30138a47dec824416a26cf8.svg",
+    "index.html": "/react-weppage/index.html",
+    "main.2ec4c2f0.css.map": "/react-weppage/static/css/main.2ec4c2f0.css.map",
+    "main.c0412e6a.js.map": "/react-weppage/static/js/main.c0412e6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ec4c2f0.css",
+    "static/js/main.c0412e6a.js"
+  ]
+}
